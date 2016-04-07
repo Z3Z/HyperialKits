@@ -1,0 +1,35 @@
+name: HyperialKits
+version: 1.0
+main: net.HyperialKits.Main.Main
+author: Krymz
+commands:
+  kit:
+    description: Select a kit from the menu!
+  kits:
+    description: Select a kit from the menu!
+  pl:
+    description: Veiw the list of plugins!
+  ?:
+    description: Veiw the list of plugins!
+  plugins:
+    description: Veiw the list of plugins!
+  shop:
+    description: Open the help menu to see the shops!
+  shops:
+    description: Open the help menu to see the shops!
+  warps:
+    description: Open the warp menu to see the warps!
+  warp:
+    description: Open the warp menu to see the warps!
+  help:
+    description: Open the help menu to get help with the server!
+  profile:
+    description: Open the profile menu to view stats on the server!
+  pack:
+    description: Send yourself the resource pack!
+  trash:
+    description: Throw useless items away!
+  voucher:
+    description: Get a weapon voucher!
+  vouchers:
+    description: Get a weapon voucher!
